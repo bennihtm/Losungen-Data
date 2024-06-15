@@ -1,0 +1,66 @@
+[
+  {
+    "year": 2019,
+    "language": "DE",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2019_de.zip",
+    "fileNameMonthlyVerses": "2019_de_month.xml",
+    "fileNameWeeklyVerses": "2019_de_week.xml",
+    "fileNameDailyVerses": "2019_de.xml"
+  },
+  {
+    "year": 2019,
+    "language": "EN",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2019_en.zip",
+    "fileNameDailyVerses": "2019_en.xml",
+    "fileNameMonthlyVerses": "2019_en_month.xml",
+    "fileNameWeeklyVerses": "2019_en_week.xml"
+  },
+  {
+    "year": 2020,
+    "language": "DE",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2020_de.zip",
+    "fileNameMonthlyVerses": "2020_de_month.xml",
+    "fileNameWeeklyVerses": "2020_de_week.xml",
+    "fileNameDailyVerses": "2020_de.xml"
+  },
+  {
+    "year": 2020,
+    "language": "EN",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2020_en.zip",
+    "fileNameDailyVerses": "2020_en.xml",
+    "fileNameMonthlyVerses": "2020_en_month.xml",
+    "fileNameWeeklyVerses": "2020_en_week.xml"
+  },
+  {
+    "year": 2021,
+    "language": "DE",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2021_de.zip",
+    "fileNameMonthlyVerses": "2021_de_month.xml",
+    "fileNameWeeklyVerses": "2021_de_week.xml",
+    "fileNameDailyVerses": "2021_de.xml"
+  },
+  {
+    "year": 2022,
+    "language": "DE",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2022_de.zip",
+    "fileNameMonthlyVerses": "2022_de_month.xml",
+    "fileNameWeeklyVerses": "2022_de_week.xml",
+    "fileNameDailyVerses": "2022_de.xml"
+  },
+  {
+    "year": 2023,
+    "language": "DE",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2023_de.zip",
+    "fileNameMonthlyVerses": "2023_de_month.xml",
+    "fileNameWeeklyVerses": "2023_de_week.xml",
+    "fileNameDailyVerses": "2023_de.xml"
+  },
+  {
+    "year": 2024,
+    "language": "DE",
+    "url": "https://raw.githubusercontent.com/schalterDev/Losungen-Android-2/master/data-for-webserver/2024_de.zip",
+    "fileNameMonthlyVerses": "2024_de_month.xml",
+    "fileNameWeeklyVerses": "2024_de_week.xml",
+    "fileNameDailyVerses": "2024_de.xml"
+  }
+]
